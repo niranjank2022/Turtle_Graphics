@@ -19,5 +19,6 @@
 >Or use the link ==> [Link 1](https://www.onlinegdb.com/online_c_compiler)  [Link 2](https://www.w3schools.com/c/tryc.php?filename=demo_compiler)
 
 ## Note
->Using this code, we can sketch diagrams composed of horizontal and vertical lines. Slanted and curved lines will be introduced in the >future.
+>Using this code, we can sketch diagrams composed of horizontal and vertical lines. Slanted and curved lines will be introduced in the
+>future.
 ***
